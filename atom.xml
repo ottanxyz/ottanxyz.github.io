@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[GitHubPages]]></title>
+  <link href="https://ottanxyz.github.io/atom.xml" rel="self"/>
+  <link href="https://ottanxyz.github.io/"/>
+  <updated>2018-11-18T13:20:46+09:00</updated>
+  <id>https://ottanxyz.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im">MWeb</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test2]]></title>
+    <link href="https://ottanxyz.github.io/15425145894899.html"/>
+    <updated>2018-11-18T13:16:29+09:00</updated>
+    <id>https://ottanxyz.github.io/15425145894899.html</id>
+    <content type="html"><![CDATA[
+<p>Test    </p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="https://ottanxyz.github.io/15425145528629.html"/>
+    <updated>2018-11-18T13:15:52+09:00</updated>
+    <id>https://ottanxyz.github.io/15425145528629.html</id>
+    <content type="html"><![CDATA[
+<p>Test</p>
+
+]]></content>
+  </entry>
+  
+</feed>
